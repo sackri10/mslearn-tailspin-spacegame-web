@@ -10,5 +10,10 @@ namespace Tailspin.SpaceGame.Web
         public Sample (){
         Console.WriteLine("Sample Default Constructor");
         }
+
+        public Sample(int i)
+        {
+
+        }
     }
 }
