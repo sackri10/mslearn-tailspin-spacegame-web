@@ -7,5 +7,8 @@ namespace Tailspin.SpaceGame.Web
 {
     public class Sample
     {
+        public Sample (){
+        Console.WriteLine("Sample Default Constructor");
+        }
     }
 }
